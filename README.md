@@ -1,4 +1,4 @@
-🤖 AI-Duplicate-Detector: Multi-Stage Image Similarity Engine
+## 🤖 AI-Duplicate-Detector: Multi-Stage Image Similarity Engine
 
 
 
